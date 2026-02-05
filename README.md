@@ -37,30 +37,6 @@ This project was executed using Python and the following key techniques:
 
 ---
 
-## 🚀 How to Run the Code
-
-To run this project locally on your machine, follow these steps:
-
-1.  **Clone the repository:**
-    ```bash
-    git clone [https://github.com/muthimuthmainnah/personal-project.git](https://github.com/muthimuthmainnah/personal-project.git)
-    ```
-2.  **Navigate to the project directory:**
-    ```bash
-    cd personal-project
-    ```
-3.  **Install necessary libraries:**
-    (Make sure you have Python installed. It's recommended to use a virtual environment.)
-    ```bash
-    pip install pandas numpy matplotlib seaborn scikit-learn
-    ```
-4.  **Run the script:**
-    ```bash
-    python WA_Fn-UseC_-HR-Employee-Attrition_code.py
-    ```
-
----
-
 ## 👤 Author
 
 * **[Muthmainnah]** - [(https://www.notion.so/Muthmainnah-s-Portfolio-297641a84f1880869b42e875a69c3a6e?source=copy_link)]
